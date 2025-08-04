@@ -1,4 +1,4 @@
-# MedInSite 🇮🇳
+# MedInSite
 
 A one-stop, comprehensive resource for medical PG aspirants in India, providing detailed and verified information about medical colleges.
 
