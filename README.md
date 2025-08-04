@@ -99,6 +99,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 📧 Contact
 
-Your Name - [@faheemakhmed](https://twitter.com/faheemakhmed) - ahmedfahimwork@gmail.com
+ fahim ahmed - [@faheemakhmed](https://twitter.com/faheemakhmed) - ahmedfahimwork@gmail.com
 
 Project Link: [https://github.com/faheemakhmed/medinsite](https://github.com/faheemakhmed/medinsite)
